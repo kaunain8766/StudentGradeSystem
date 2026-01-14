@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f6fb;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    background: #ffffff;
+    padding: 25px;
+    margin-top: 60px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.15);
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+h2 {
+    color: #34495e;
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
+    color: gray;
+}
